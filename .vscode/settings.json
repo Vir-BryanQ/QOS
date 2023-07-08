@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "list.h": "c",
+        "ioqueue.h": "c",
+        "string.h": "c",
+        "print.h": "c",
+        "dir.h": "c",
+        "superblock.h": "c",
+        "debug.h": "c",
+        "ide.h": "c",
+        "interrupt.h": "c",
+        "console.h": "c"
+    },
+    "ros.distro": "noetic"
+}
